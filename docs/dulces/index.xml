@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dulces on Las Recetas de la Nonna</title>
+    <link>https://asirlucasantonelli.000webhostapp.com/dulces/</link>
+    <description>Recent content in Dulces on Las Recetas de la Nonna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>La Nonna - All rights reserved</copyright>
+    <lastBuildDate>Sat, 23 Sep 2023 16:11:02 +0200</lastBuildDate><atom:link href="https://asirlucasantonelli.000webhostapp.com/dulces/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panqueques</title>
+      <link>https://asirlucasantonelli.000webhostapp.com/dulces/panqueques/</link>
+      <pubDate>Sat, 23 Sep 2023 16:11:02 +0200</pubDate>
+      
+      <guid>https://asirlucasantonelli.000webhostapp.com/dulces/panqueques/</guid>
+      <description>En esta receta prepararemos unos panqueques de banana con dulce de leche. Super fáciles de hacer y muy sabrosos.
+Ingredientes - 2 huevos - 250 g de harina - 500 ml de leche - 2 cucharadas de aceite de girasol - 1 cucharada de azúcar - 1 banana cortada en trozos pequeños Preparación En un cuenco mezclamos todos los ingredintes hasta obtener una mezcla espesa, si es necesario, podemos añadir más leche o harina hasta conseguir la consistencia deseada.</description>
+    </item>
+    
+    <item>
+      <title>Panna Cotta</title>
+      <link>https://asirlucasantonelli.000webhostapp.com/dulces/pannacotta/</link>
+      <pubDate>Sat, 23 Sep 2023 16:10:48 +0200</pubDate>
+      
+      <guid>https://asirlucasantonelli.000webhostapp.com/dulces/pannacotta/</guid>
+      <description>La panna cotta es un dulce típico de la zona del Piamonte en Italia. Es fácil de realizar, cremoso y exquisito. Es muy versátil, por lo que se puede realizar de varias maneras, en este caso, prepararemos la panna cotta alla frutta.</description>
+    </item>
+    
+    <item>
+      <title>Chocotorta</title>
+      <link>https://asirlucasantonelli.000webhostapp.com/dulces/chocotorta/</link>
+      <pubDate>Sat, 23 Sep 2023 13:20:48 +0200</pubDate>
+      
+      <guid>https://asirlucasantonelli.000webhostapp.com/dulces/chocotorta/</guid>
+      <description>La chocotorta argentina es una tarta sin cocción, fácil, sabrosa y típica de Argentina.
+Ingredientes - 600 g de dulde de leche pastelero - 400 g de queso crema - 500 g de galletas Chocolinas - 400 cc de leche chocolatada - Virutas de chocolate Preparación Ahora pasaremos a seguir los pasos para preparar la chocotorta argentina.</description>
+    </item>
+    
+  </channel>
+</rss>

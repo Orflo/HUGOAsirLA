@@ -1,0 +1,41 @@
+baseURL = 'https://asirlucasantonelli.000webhostapp.com/'
+languageCode = 'en-us'
+title = 'Las Recetas de la Nonna'
+theme = 'mediumish-gohugo-theme'
+summaryLength = 25
+copyright = 'La Nonna - All rights reserved'
+enableEmoji = true
+publishDir = "docs"
+
+[params]
+ logo = '/images/logo.png'
+ description = 'Las recetas caseras más deliciosas!'
+
+[params.author]
+ name = 'La Nonna'
+ thumbnail = '/images/logo.png'
+ description = "La Nonna Recipes"
+
+[params.index]
+ picture = '/images/logo.png'
+ title = 'La Nonna'
+ subtitle = 'Este es un blog dedicado a digitalizar las recetas caseras de la Nonna'
+ mdtext = '''Actualmente se están añadiendo recetas, muchas de las cuales se están revisando para poder poner medidas más exactas, ya que como todos sabemos, las abuelas cocinan con "un puñado de", "una pizca de", y el típico "lo vas viendo".'''
+ alertbar = false
+
+[menu]
+    [[menu.main]]
+        name = "Dulces"
+        weight = 100
+        identifier = "Dulces"
+        url = "/dulces"
+    [[menu.main]]
+        name = "Salados"
+        identifier = "salado"
+        weight = 200
+        url = "/salados"
+    [[menu.main]]
+        name = "Objetivo"
+        identifier = "objetivo"
+        weight = 300
+        url = "/"
