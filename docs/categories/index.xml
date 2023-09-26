@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Las Recetas de la Nonna</title>
-    <link>https://asirlucasantonelli.000webhostapp.com/categories/</link>
+    <link>https://lanonnarecipes.surge.sh/categories/</link>
     <description>Recent content in Categories on Las Recetas de la Nonna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>La Nonna - All rights reserved</copyright><atom:link href="https://asirlucasantonelli.000webhostapp.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>La Nonna - All rights reserved</copyright><atom:link href="https://lanonnarecipes.surge.sh/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Las Recetas de la Nonna</title>
-    <link>https://asirlucasantonelli.000webhostapp.com/tags/</link>
+    <link>https://lanonnarecipes.surge.sh/tags/</link>
     <description>Recent content in Tags on Las Recetas de la Nonna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>La Nonna - All rights reserved</copyright>
-    <lastBuildDate>Sat, 23 Sep 2023 16:15:06 +0200</lastBuildDate><atom:link href="https://asirlucasantonelli.000webhostapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 16:15:06 +0200</lastBuildDate><atom:link href="https://lanonnarecipes.surge.sh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>receta</title>
-      <link>https://asirlucasantonelli.000webhostapp.com/tags/receta/</link>
+      <link>https://lanonnarecipes.surge.sh/tags/receta/</link>
       <pubDate>Sat, 23 Sep 2023 16:15:06 +0200</pubDate>
       
-      <guid>https://asirlucasantonelli.000webhostapp.com/tags/receta/</guid>
+      <guid>https://lanonnarecipes.surge.sh/tags/receta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>salados</title>
-      <link>https://asirlucasantonelli.000webhostapp.com/tags/salados/</link>
+      <link>https://lanonnarecipes.surge.sh/tags/salados/</link>
       <pubDate>Sat, 23 Sep 2023 16:15:06 +0200</pubDate>
       
-      <guid>https://asirlucasantonelli.000webhostapp.com/tags/salados/</guid>
+      <guid>https://lanonnarecipes.surge.sh/tags/salados/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dulces</title>
-      <link>https://asirlucasantonelli.000webhostapp.com/tags/dulces/</link>
+      <link>https://lanonnarecipes.surge.sh/tags/dulces/</link>
       <pubDate>Sat, 23 Sep 2023 16:11:02 +0200</pubDate>
       
-      <guid>https://asirlucasantonelli.000webhostapp.com/tags/dulces/</guid>
+      <guid>https://lanonnarecipes.surge.sh/tags/dulces/</guid>
       <description></description>
     </item>
     
